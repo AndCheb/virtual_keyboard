@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.activ {
+    background-color: aquamarine;
+}
+
 .page__body {
     margin: 0;
     padding-top: 50px;
@@ -44,8 +48,4 @@
     .page__body {
         padding-top: 10px;
     }
-}
-
-.green {
-    background-color: aquamarine;
 }
